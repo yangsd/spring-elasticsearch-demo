@@ -1,3 +1,3 @@
 # spring-elasticsearch-demo
 
-elasticsearch 实例
+elasticsearch 示例
